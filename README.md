@@ -2,6 +2,10 @@
 
 ## Overview
 
+##Collaborators
+Anvi Rakshe 
+Shefali Verma
+
 This project aims to examine the underlying factors contributing to mental health distress within the American population, focusing on data from 2022 covering all 50 states. By analyzing state-wide health metrics provided by America's Health Rankings, we aim to find patterns shared among states that report high levels of mental health issues. Additionally, we explore ways to identify at-risk communities that might be underreporting mental health concerns due to cultural or stigma-related barriers.
 
 ## Data
